@@ -1,7 +1,1 @@
-code
 
-ansible code
-
-terraform code
-
-jenkins pipelin code
